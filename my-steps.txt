@@ -1,0 +1,94 @@
+### Step 2A
+/c/Users/Gaming Computer
+
+### Step 2B
+cd C:\Users\Gaming Computer\OneDrive\Desktop
+
+### Step 2C
+cd C:\Users\Gaming Computer\OneDrive\Desktop\unit1-git-practice
+
+### Step 2D
+C:\Users\Gaming Computer\OneDrive\Desktop\unit1-git-practice
+
+### Step 2E
+C:\Users\Gaming Computer\OneDrive\Desktop\unit1-git-practice>dir
+
+### Step 2F
+ Directory of C:\Users\Gaming Computer\OneDrive\Desktop\unit1-git-practice
+
+02/16/2023  12:20 PM    <DIR>          .
+02/16/2023  12:20 PM    <DIR>          ..
+02/16/2023  12:20 PM               430 my-steps.txt
+               1 File(s)            430 bytes
+               2 Dir(s)  31,843,807,232 bytes free
+
+### Step 2G
+im clearly
+
+### Step 2H
+doing this wrong
+
+### Step 2I
+i dont know any other commands.
+
+### Step 2J
+im still in the directory.
+
+### Step 2K
+yup, still here.
+
+
+### Step 3A
+
+
+### Step 3B
+
+
+### Step 3C
+
+
+### Step 3D
+
+
+### Step 3E
+
+
+### Step 3F
+
+
+### Step 3G
+
+
+### Step 3H
+
+
+### Step 3I
+
+
+### Step 3J
+
+
+### Step 3K
+
+
+### Step 3L
+
+
+### Step 3M
+
+
+### Step 3N
+
+
+
+### Step 4
+
+
+### Step 5
+
+
+### Step 6
+
+
+### Step 7
+*** DO NOT RECORD STEP 7 ***
